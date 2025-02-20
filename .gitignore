@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.env
+
+# Logs
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows specific
+Thumbs.db
+desktop.ini 
