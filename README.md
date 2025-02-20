@@ -140,7 +140,7 @@ This tool is provided "as is" without warranty of any kind. Use at your own risk
 
 For issues and feature requests:
 - Create an issue on GitHub
-- Email: your.email@example.com
+- Email: chennupatianirudh@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -149,4 +149,4 @@ For issues and feature requests:
 - All contributors and testers
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by [ CH.Anirudh ]
