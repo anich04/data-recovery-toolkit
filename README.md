@@ -40,7 +40,7 @@ A powerful and user-friendly data recovery tool designed to recover deleted file
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/data-recovery-toolkit.git
+   git clone https://github.com/anich04/data-recovery-toolkit.git
    cd data-recovery-toolkit
    ```
 
